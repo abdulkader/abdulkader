@@ -10,6 +10,7 @@
 I'm passionate about creating awesome website and web applications
 
 <div align=center>
+
 ![stats](https://github-readme-stats.vercel.app/api?username=abdulkader&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkader&theme=prussian&layout=compact)
 
