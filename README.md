@@ -15,5 +15,5 @@ I'm passionate about creating awesome website and web applications
 
 ## Stuff I'm working on
 
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkader&" alt="abdulkader" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkader" alt="abdulkader" /></p>
 <p align=center><img align="center" src="https://raw.githubusercontent.com/abdulkader/abdulkader/a407529eda6cf7c81265dae00a6eab19d1597632/github-contribution-grid-snake.svg" /></p>
