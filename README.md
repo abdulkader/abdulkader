@@ -5,7 +5,9 @@
 
 </div>
 
-# Hello, my name is Abdul Kader
+# Hello, my name is 
+
+![gitartwork](gitartwork.svg)
 
 I'm passionate about creating awesome website and web applications
 
